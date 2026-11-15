@@ -1,4 +1,4 @@
-# ai_snake
+# AI Snake
 
 A snake game that teaches itself to play with **Deep Q-Learning** (PyTorch + pygame).
 
