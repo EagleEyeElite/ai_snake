@@ -1,1 +1,9 @@
-.idea
+.idea/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+dist/
+# your own training output (the shipped model lives in src/ai_snake/pretrained/)
+model/
