@@ -23,4 +23,4 @@ uv run ai-snake train      # train your own agent from scratch
 
 ## Credits
 
-Based on this video tutorial: https://www.youtube.com/watch?v=L8ypSXwyBds
+Based on this [video tutorial](https://www.youtube.com/watch?v=L8ypSXwyBds).
